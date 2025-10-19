@@ -1,0 +1,23 @@
+{
+  "BCA": {
+    "admission_fee": "₹25,000",
+    "semester_fee": "₹18,000",
+    "last_date": "15 June",
+    "late_fine": "₹100/day",
+    "installments": "Yes, 2 installments allowed"
+  },
+  "B.Tech": {
+    "admission_fee": "₹50,000",
+    "semester_fee": "₹35,000",
+    "last_date": "15 January",
+    "late_fine": "₹200/day",
+    "installments": "No"
+  },
+  "BBA": {
+    "admission_fee": "₹30,000",
+    "semester_fee": "₹20,000",
+    "last_date": "10 July",
+    "late_fine": "₹150/day",
+    "installments": "Yes, 3 installments allowed"
+  }
+}
